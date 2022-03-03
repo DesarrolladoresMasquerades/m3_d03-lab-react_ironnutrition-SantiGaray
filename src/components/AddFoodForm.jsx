@@ -33,8 +33,6 @@ function handleSubmit(event){
         calories: 0,
         servings: 0
     })
-
-
 }
 
 return(
